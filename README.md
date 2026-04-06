@@ -21,7 +21,7 @@
 
 ```bash
 # Clone
-git clone https://github.com/boclaes/password-auditing-suite.git
+git clone https://github.com/boclaes102-eng/Password-Auditing-Suite.git
 cd password-auditing-suite
 
 # Install (editable, with dev extras)
