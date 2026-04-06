@@ -1,0 +1,13 @@
+# Runtime dependencies
+click>=8.1
+rich>=13.7
+requests>=2.31
+urllib3>=2.0
+passlib[bcrypt]>=1.7
+
+# Optional: Argon2 support (recommended for testing salted hashes)
+# argon2-cffi>=23.0
+# passlib[argon2]>=1.7
+
+# Development / testing
+# pip install -e ".[dev]"

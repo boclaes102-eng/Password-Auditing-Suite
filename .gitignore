@@ -1,0 +1,53 @@
+# ── Wordlists (large, binary-ish, not for version control) ──────────────────
+rockyou.txt
+rockyou.txt.gz
+*.wordlist
+wordlists/
+
+# Any generated mutation output
+samples/mutated.txt
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# Editable install artifacts
+*.pth
+__editable__*
+
+# ── Testing & coverage ───────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# ── Type checking ────────────────────────────────────────────────────────────
+.mypy_cache/
+.ruff_cache/
+
+# ── IDEs ─────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini

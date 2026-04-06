@@ -1,0 +1,7 @@
+# bcrypt hashes (cost 4 — low for demo speed, real deployments use 12+)
+# password
+$2b$04$r7jVAvEs0QQScpr4N3Zhh.E9Ar4g2EewTUhEN73jCEUSQzN7qQCvW
+# letmein
+$2b$04$aPiU5Tq6nVffGUV.4E51NOn.I/UZ0LgHTBwtbbTfetR50sKGpZGU6
+# sunshine
+$2b$04$TIDkQVU/c/tFpbPqyHeff.6nEzPhJ8FWbms68hpgTb3GVpJmZiXva

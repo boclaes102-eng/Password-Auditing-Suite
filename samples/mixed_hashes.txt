@@ -1,0 +1,16 @@
+# Mixed algorithm file — tests the auto-detection feature of 'identify' and 'audit'
+# The cracker auto-detects each hash type individually
+
+# --- MD5 (32 chars) ---
+5f4dcc3b5aa765d61d8327deb882cf99
+e10adc3949ba59abbe56e057f20f883e
+0d107d09f5bbe40cade3de5c71e9e9b7
+
+# --- SHA-1 (40 chars) ---
+5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8
+7c4a8d09ca3762af61e59520943dc26494f8941b
+d033e22ae348aeb5660fc2140aec35850c4da997
+
+# --- SHA-256 (64 chars) ---
+5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
+8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92

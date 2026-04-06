@@ -1,0 +1,21 @@
+# SHA-1 hashes — all plaintexts are in rockyou.txt
+# password
+5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8
+# 123456
+7c4a8d09ca3762af61e59520943dc26494f8941b
+# letmein
+b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
+# sunshine
+8d6e34f987851aa599257d3831a1af040886842f
+# iloveyou
+ee8d8728f435fd550f83852aabab5234ce1da528
+# admin
+d033e22ae348aeb5660fc2140aec35850c4da997
+# welcome
+c0b137fe2d792459f26ff763cce44574a5b5ab03
+# dragon
+af8978b1797b72acfff9595a5a2a373ec3d9106d
+# monkey
+ab87d24bdc7452e55738deb5f868e1f16dea5ace
+# master
+4f26aeafdb2367620a393c973eddbe8f8b846ebd
